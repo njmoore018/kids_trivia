@@ -1,7 +1,7 @@
 [
-    ["How many legs does a spider have?",{"8":"correct", "6":"wrong", "10":"wrong"}],
-    ["How many planets are in our solar system?", {"8":"correct", "12":"wrong"}],
-    ["Which ocean is off the California coast?",{"The Pacific":"correct"}],
+    ["How many legs does a spider have?",{"8":"correct", "6":"wrong", "10":"wrong", "2":"wrong"}],
+    ["How many planets are in our solar system?", {"8":"correct", "12":"wrong", "14":"wrong", "22":"wrong"}],
+    ["Which ocean is off the California coast?",{"The Pacific":"correct", "The Atlantic":"wrong", "Indian":"wrong", "The Arctic":"wrong"}],
     ["Where is the Great Pyramid of Giza?",{"Egypt":"correct"}],
     ["Who wrote Hamlet?",{"William Shakespeare":"correct"}],
     ["How many days are in a year?",{"365":"correct"}],
