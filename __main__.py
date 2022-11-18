@@ -32,6 +32,47 @@ FIELD_4 = pygame.Rect(((WIDTH / 2) + 50), ((HEIGHT / 2) + 75), 300, 150)
 
 # Bar to show money ammount  
 balance = pygame.Rect(25, (HEIGHT // 1.2), 10, 20)
+money_levels = [0, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 500000, 1000000]
+
+def get_grade():
+    instructions = banner("Select grade difficulty to begin", 30, BLACK)
+    count = 1
+    WIN.fill(WHITE)
+    done  = False
+    grade_list =  [banner("k", 18, BLACK),  banner("1", 18, BLACK),
+    banner("2", 18, BLACK),  banner("3", 18, BLACK),  banner("4", 18, BLACK),
+    banner("5", 18, BLACK),  banner("6", 18, BLACK),  banner("7", 18, BLACK),
+    banner("8", 18, BLACK),  banner("9", 18, BLACK), banner("10", 18, BLACK),
+    banner("11", 18, BLACK), banner("12", 18, BLACK)]
+    field_list = [pygame.Rect(270, 250, 40, 40), pygame.Rect(300, 250, 40, 40),
+    pygame.Rect(0, 250, 40, 40), pygame.Rect(30, 250, 40, 40),
+    pygame.Rect(60, 250, 40, 40), pygame.Rect(90, 250, 40, 40),
+    pygame.Rect(40, 250, 40, 40), pygame.Rect(40, 250, 40, 40),
+    pygame.Rect(140, 250, 40, 40), pygame.Rect(150, 250, 40, 40),
+    pygame.Rect(180, 250, 40, 40), pygame.Rect(210, 250, 40, 40),
+    pygame.Rect(240, 250, 40, 40),]
+
+    WIN.blit(instructions, ((WIDTH //2) - (instructions.get_width() // 2), 50))
+    for i in range(len(field_list)):
+            field = field_list[i]
+            field.x = count * 60
+            pygame.draw.rect(WIN, BLUE, field)
+            WIN.blit(grade_list[i], (field.x + 15, field.y + 15))
+            count += 1
+    while not done:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                pygame.quit()
+            if event.type == pygame.MOUSEBUTTONUP:
+                pos = pygame.mouse.get_pos()
+                for i in range(len(field_list)):
+                    field = field_list[i]
+                    if field.collidepoint(pos):
+                        grade_choice = i
+                        done = True
+                        return grade_choice
+
+        pygame.display.update()
 
 
 
@@ -48,11 +89,13 @@ def banner(text, size, color):
     font1 = pygame.font.SysFont('chalkduster.ttf', size)
     return font1.render(text, True, color)
 
-def draw_window(question, answer_list):
+def draw_window(question, answer_list, points):
     " "
+    curr_money = str(money_levels[points])
     min_money = banner("$0", 18, BLACK)
     max_money = banner("$1,000,000", 18, BLACK)
     quest = banner(question, 40, BLACK)
+    your_money = banner((f"${curr_money}"), 18, BLACK)
 
     # Answer options
     a_1 = banner(answer_list[0], 25, BLACK)
@@ -80,23 +123,25 @@ def draw_window(question, answer_list):
     pygame.draw.rect(WIN, BLACK, balance)
     WIN.blit(min_money, (20, 450))
     WIN.blit(max_money, (20, 50))
+    WIN.blit(your_money, (balance.x + balance.width + 10, balance.y))
 
     pygame.display.update()
 
 
 def main():
-    grade = int(input("Enter grade level (0-12): "))
+
+
+    grade = get_grade()
 
     file = grade_files[grade]
     lines_text = open(file)
     lines_list = json.load(lines_text)
     line_num = 0
-
-    money_levels = [0, 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 500000, 1000000]
     points = 0
 
-    run = True
 
+
+    run = True
     while run:
         answer = None
         line = lines_list[line_num]
@@ -123,11 +168,13 @@ def main():
         if answer in answers and answers[answer] == "correct":
             # next question
             line_num += 1
+            points += 1
             # money bar goes up  
             balance.height += 20
             balance.y -= 20
 
-        draw_window(question, a_list)
+
+        draw_window(question, a_list, points)
 
 if __name__ == "__main__":
     main()
