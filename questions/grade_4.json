@@ -1,16 +1,16 @@
 [
     ["How many legs does a spider have?",{"8":"correct", "6":"wrong", "10":"wrong", "2":"wrong"}],
-    ["How many planets are in our solar system?", {"8":"correct", "12":"wrong", "14":"wrong", "22":"wrong"}],
     ["Which ocean is off the California coast?",{"The Pacific":"correct", "The Atlantic":"wrong", "Indian":"wrong", "The Arctic":"wrong"}],
-    ["Where is the Great Pyramid of Giza?",{"Egypt":"correct"}],
-    ["Who wrote Hamlet?",{"William Shakespeare":"correct"}],
-    ["How many days are in a year?",{"365":"correct"}],
-    ["How many sides does a triangle have?",{"Three":"correct"}],
-    ["Who was the first American president?",{"George Washington":"correct"}],
-    ["What is the largest mammal in the world?",{"A whale.":"correct"}],
-    ["In which capital city of Europe would you find the Eiffel Tower?",{"Paris":"correct"}],
-    ["What is the largest continent?",{"Asia":"correct"}],
-    ["How many milligrams make a gram?",{"1000":"correct"}],
-    ["What is the most widely spoken language in Brazil?",{"Portuguese":"correct"}],
-    ["How many continents are there in the world?",{"Seven":"correct"}]
+    ["Where is the Great Pyramid of Giza?",{"Egypt":"correct", "Mexico":"wrong", "India":"wrong", "Brazil":"wrong"}],
+    ["How many planets are in our solar system?", {"8":"correct", "12":"wrong", "14":"wrong", "22":"wrong"}],
+    ["Who wrote Hamlet?",{"William Shakespeare":"correct", "Charles Dickens":"wrong", "Jane Austen":"wrong", "Dr. Seuss":"wrong"}],
+    ["How many days are in a year?",{"365":"correct", "100":"wrong", "356":"wrong", "31":"wrong"}],
+    ["How many sides does a triangle have?",{"3":"correct", "4":"wrong", "8":"wrong", "5":"wrong"}],
+    ["Who was the first American president?",{"George Washington":"correct", "Joe Biden":"wrong", "Benjamin Franklin":"wrong", "Abraham Lincoln":"wrong"}],
+    ["What is the largest continent?",{"Asia":"correct", "Europe":"wrong", "Africa":"wrong", "North America":"wrong"}],
+    ["How many milligrams make a gram?",{"1000":"correct", "100":"wrong", "10":"wrong", "10000":"wrong"}],
+    ["What is the most widely spoken language in Brazil?",{"Portuguese":"correct", "English":"wrong", "Spanish":"wrong", "French":"wrong"}],
+    ["How many continents are there in the world?",{"7":"correct", "6":"wrong", "10":"wrong", "4":"wrong"}],
+    ["In which capital city of Europe would you find the Eiffel Tower?",{"Paris":"correct", "Berlin":"wrong", "Rome":"wrong", "London":"wrong"}],
+    ["What is the largest mammal in the world?",{"Whale":"correct", "Elephant":"wrong", "Bear":"wrong", "Cat":"wrong"}]
 ]
