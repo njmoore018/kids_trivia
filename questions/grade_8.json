@@ -1,0 +1,16 @@
+[
+["Which mammal has the longest lifespan?", {"Bowhead whale":"correct", "Elephant":"wrong", "Salamander":"wrong", "Alligator":"wrong"}],
+["What is the longest river in the world?", {"The Nile":"correct", "Amazon river":"wrong", "River Thames":"wrong", "Mississippi River":"wrong"}],
+["Mount Kilimanjaro is located in which country?", {"Tanzania":"correct", "China":"wrong", "Zambia":"wrong", "Switzerland":"wrong"}],
+["Who invented the light bulb?", {"Thomas Edison":"correct", "Benjamin Franklin":"wrong", "James Watt":"wrong", "Leonardo da Vinci":"wrong"}],
+["Where did the Olympic Games originate?", {"Greece":"correct", "Italy":"wrong", "India":"wrong", "Austrailia":"wrong"}],
+["How many phases does the Moon have?", {"8":"correct", "24":"wrong", "4":"wrong", "10":"wrong"}],
+["What is the hardest natural substance in the world?", {"Diamond":"correct", "Iron":"wrong", "Steel":"wrong", "Copper":"wrong"}],
+["How many muscles are there in the human body?", {"640":"correct", "144":"wrong", "212":"wrong", "1243":"wrong"}],
+["Which planet has the most Moons?", {"Jupiter":"correct", "Earth":"wrong", "Venus":"wrong", "Saturn":"wrong"}],
+["Which state of the United States is the smallest in the area?", {"Rhode Island":"correct", "Vermont":"wrong", "Delaware":"wrong", "New Jersey":"wrong"}],
+["Who wrote the poems “Annabel Lee” and “The Raven”?", {"Edgar Allan Poe":"correct", "Ralph Waldo Emerson":"wrong", "Nathaniel Hawthorne":"wrong", "Robert Frost":"wrong"}],
+["Where was the First Continental Congress held?", {"Philadelphia":"correct", "Boston":"wrong", "Washington, D.C.":"wrong", "Richmond, Va.":"wrong"}],
+["The Earth’s water cycle is powered by:", {"sun":"correct", "wind":"wrong", "radioactive decay":"wrong", "energy of the Earth’s rotation":"wrong"}],
+["What do you call the distance around a circle?", {"circumference":"correct", "radius":"wrong", "perimeter":"wrong", "boundary":"wrong"}]
+]

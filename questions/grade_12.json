@@ -1,0 +1,17 @@
+[
+    ["The square root of 81 is? ",{"9":"correct", "3":"wrong", "27":"wrong", "45":"wrong"}],
+    ["How do you measure mineral hardness?",{"The Mohs' scale":"correct", "The kinetic scale":"wrong", "The syncline scale":"wrong", "The Digsby scale":"wrong"}],
+    ["What is the name of a four-dimensional cube?",{"Tesseract":"correct", "4D Cube":"wrong", "Cubachoron":"wrong", "3-sphere":"wrong"}],
+    ["What is the bottom part of a fraction called?", {"denominator":"correct", "lower fraction":"wrong", "numerator":"wrong", "vinculum":"wrong"}],
+    ["What is 15% of $200?",{"30":"correct", "15":"wrong", "100":"wrong", "75":"wrong"}],
+    ["Which term is most likely found in Trigonometry?",{"Sine":"correct", "Skew Lines":"wrong", "Dollars":"wrong", "Binary":"wrong"}],
+    ["Parallel lines ...",{"never meet":"correct", "are never the same distance apart":"wrong", "cross only once":"wrong", "eventually touch":"wrong"}],
+    ["Solve the quadratic equation (x+1)(x-1)=0:",{"x = 1 , -1":"correct", "x = 1":"wrong", "x = 0":"wrong", "x = -1":"wrong"}],
+    ["'Base times height divided by two' gives you an answer for?",{"Area of a triangle":"correct", "Area of a rectangle":"wrong", "Diagonal of a polygon":"wrong", "Hypotenuse":"wrong"}],
+    ["Which area of Math deals with segments, circumferences and sectors?",{"Geometry":"correct", "Fractions":"wrong", "Consumer Arithmetic":"wrong", "Rates and Ratios":"wrong"}],
+    ["___ said 'the square of the hypotenuse is equal to the sum of the squares of the other two sides'?",{"Pythagoras":"correct", "Plato":"wrong", "Hypotenuse":"wrong", "Triangulas":"wrong"}],
+    ["2x + 5x = 35. What is x?",{"5":"correct", "7":"wrong", "15":"wrong", "2":"wrong"}],
+    
+    ["In which capital city of Europe would you find the Eiffel Tower?",{"Paris":"correct", "Berlin":"wrong", "Rome":"wrong", "London":"wrong"}],
+    ["What is the largest mammal in the world?",{"Whale":"correct", "Elephant":"wrong", "Bear":"wrong", "Cat":"wrong"}]
+]
