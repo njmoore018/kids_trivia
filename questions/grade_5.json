@@ -1,0 +1,16 @@
+[
+    ["Which is the largest country in the world?",{"USA":"wrong", "China":"wrong", "Russia":"correct", "Canada":"wrong"}],
+    ["How much larger is Russia than the USA?",{"2x":"correct", "1.5x":"wrong", "1.3x":"wrong", "3x":"wrong"}],
+    ["Who invented the phonograph?",{"Thomas Jefferson":"wrong", "Nikola Tesla":"wrong", "Benjamin Franklin":"wrong", "Thomas Edison":"correct"}],
+    ["Which month has 31 days?",{"January":"correct", "April":"wrong", "June":"wrong", "September":"wrong"}],
+    ["What is the capital of France?",{"London":"wrong", "Paris":"correct", "Rome":"wrong", "Berlin":"wrong"}],
+    ["Which country contains The Great Pyramid?",{"Saudi Arabia":"wrong", "South Africa":"wrong", "Madagascar":"wrong", "Egypt":"correct"}],
+    ["Which is the largest and deepest ocean in the world?",{"Atlantic":"wrong", "Pacific":"correct", "Artic":"wrong", "Indian":"wrong"}],
+    ["Which US state is located outside North America?",{"Alaska":"wrong", "New York":"wrong", "Puerto Rico":"wrong", "Hawaii":"correct"}],
+    ["Which of these countries is located outside North America?",{"Cuba":"correct", "USA":"wrong", "Canada":"wrong", "Mexico":"wrong"}],
+    ["What is the largest land border between two countries?",{"China-Russia":"wrong", "US-Mexico":"wrong", "US-Canada":"correct", "Russia-Ukraine":"wrong"}],
+    ["Which is the largest US state?",{"Texas":"wrong", "Alaska":"correct", "California":"wrong", "Montana":"wrong"}],
+    ["Which is the largest human organ?",{"Heart":"wrong", "Liver":"wrong", "Intestines":"wrong", "Skin":"correct"}],
+    ["Which is the hardest natural mineral?",{"Diamond":"correct", "Coal":"wrong", "Iron":"wrong", "Copper":"wrong"}],
+    ["Which continent has the largest desert?",{"North America":"wrong", "Europe":"wrong", "Asia":"wrong", "Africa":"correct"}]
+]
