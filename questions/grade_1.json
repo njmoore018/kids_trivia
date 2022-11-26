@@ -1,0 +1,16 @@
+[
+    ["What is a baby cow called?",{"Foal":"wrong", "Calf":"correct", "Puppy":"wrong", "Kitten":"wrong"}],
+    ["Which animal is the fastest?",{"Cheetah":"correct", "Elephant":"wrong", "Cow":"wrong", "Hippo":"wrong"}],
+    ["What color are polar bears?",{"Black":"wrong", "Brown":"wrong", "White":"correct", "Gray":"wrong"}],
+    ["What does the Earth orbit around?",{"Mars":"wrong", "Nothing":"wrong", "The Moon":"wrong", "The Sun":"correct"}],
+    ["What orbits around the Earth?",{"The Moon":"correct", "The Sun":"wrong", "Mars":"wrong", "Nothing":"wrong"}],
+    ["From which country does spaghetti come?",{"France":"wrong", "Italy":"correct", "United States":"wrong", "Germany":"wrong"}],
+    ["What is frozen water called?",{"Steam":"wrong", "Solid Water":"wrong", "Cold Water":"wrong", "Ice":"correct"}],
+    ["How many states are in the USA?",{"45":"wrong", "1":"wrong", "50":"correct", "55":"wrong"}],
+    ["How many seasons are in a year?",{"1":"wrong", "2":"wrong", "3":"wrong", "4":"correct"}],
+    ["How many strikes are batters allowed in baseball?",{"1":"wrong", "2":"wrong", "3":"correct", "4":"wrong"}],
+    ["Where does the President of the USA live?",{"The White House":"correct", "The Gray House":"wrong", "Their Own House":"wrong", "The Tan House":"wrong"}],
+    ["During which season is it most likely to snow?",{"Summer":"wrong", "Fall":"wrong", "Winter":"correct", "Spring":"wrong"}],
+    ["What is the highest mountain in the world?",{"Denali":"wrong", "Everest":"correct", "K2":"wrong", "Aconcagua":"wrong"}],
+    ["Which vitamin do oranges contain?",{"Vitamin C":"correct", "Vitamin D":"wrong", "Vitamin A":"wrong", "Vitamin B":"wrong"}]
+]
