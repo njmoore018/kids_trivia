@@ -1,0 +1,16 @@
+[
+    ["Which ocean is located between North America and europe?", {"Alantic Ocean":"correct", "Pacific Ocean":"wrong", "Gulf of Mexico":"wrong", "Arctic Ocean":"wrong"}],
+    ["If you wanted to see the Leaning Tower of Pisa, where would you go?", {"France":"wrong", "Italy":"correct", "Germany":"wrong", "Spain":"wrong"}],
+    ["What is the cell’s “brain”?", {"Membrane":"wrong", "Cytoplasm":"wrong", "The Nucleus":"correct", "Mitochondria":"wrong"}],
+    ["What is the largest rainforest in the world?", {"Amazon Rainforest":"correct", "Brazil Rainforest":"wrong", "The Congo":"wrong", "Daintree":"wrong"}],
+    ["What is the hardest natural substance?", {"Talc":"wrong", "Quartz":"wrong", "Gypsum":"wrong", "Diamond":"correct"}],
+    ["What city is known as the Windy City?", {"Chicago":"correct", "Texas":"wrong", "Idaho":"wrong", "Florida":"wrong"}],
+    ["What is New York City's nickname?", {"Gotham":"wrong", "Big Apple":"correct", "Fun city":"wrong", "The city that never sleeps":"wrong"}],
+    ["What is the world’s longest river?", {"Amazon river":"wrong", "Yangtza River":"wrong", "Yellow river":"wrong", "Nile river":"correct"}],
+    ["What is the largest ocean on Earth?", {"Alantic Ocean":"wrong", "Pacific Ocean":"correct", "Gulf of Mexico":"wrong", "Arctic Ocean":"wrong"}],
+    ["Who invented the light bulb?", {"Elon Musk":"wrong", "Michael Dell":"wrong", "Thomas Edison":"correct", "Steve Jobs":"wrong"}],
+    ["Who baptized Jesus?", {"Adam":"wrong", "John the Baptist":"correct", "Jacob":"wrong", "Samuel":"wrong"}],
+    ["What is the highest mountain above sea level in the Mahalangur Himalayan range?", {"Mount Everest":"correct", "Lhotse":"wrong", "Makalu":"wrong", "Cho Oyu":"wrong"}],
+    ["What kind of monuments are the Ancient Egyptians known for?", {"Mummies":"wrong", "Tombs":"wrong", "Pharaohs":"wrong", "Pyramids":"correct"}],
+    ["8*8?", {"16":"wrong", "64":"correct", "27":"wrong", "61":"wrong"}]
+]

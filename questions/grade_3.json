@@ -1,0 +1,16 @@
+[
+    ["Ram is reading a storybook containing 260 pages. He has completed reading 180 pages. How many more pages should he read to finish the book?", {"60":"wrong", "80":"correct", "40":"wrong", "120":"wrong"}],
+    ["Rita had $150. She wanted to buy a doll that costs $230. How much more money does she need to buy the toy?", {"80":"correct", "90":"wrong", "100":"wrong", "120":"wrong"}],
+    ["what is 4+4?", {"8":"correct", "16":"wrong", "5":"wrong", "6":"wrong"}],
+    ["Ram had 342 coins in his collection. How would you write 342?", {"Three four two":"wrong", "Three forty-two":"wrong", "Three hundred forty-two":"correct", "Three hundred four two":"wrong"}],
+    ["What is the plural form a knife?", {"Knifes":"wrong", "knives":"correct", "Nifes":"wrong", "Nives":"wrong"}],
+    ["She .... your new teacher", {"Be":"wrong", "Are":"wrong", "Am":"wrong", "is":"correct"}],
+    ["What is the past tense of place?", {"placed":"correct", "Plased":"wrong", "Plasis":"wrong", "Placing":"wrong"}],
+    ["What is the verb? I set the glass on the table", {"Glass":"wrong", "set":"correct", "On":"wrong", "Table":"wrong"}],
+    ["What is the verb? I ran out of the room", {"Room":"wrong", "Out":"wrong", "I":"wrong", "ran":"correct"}],
+    ["What is the biggest planet?", {"jupiter":"correct", "Venus":"Wrong", "Sun":"wrong", "Earth":"wrong"}],
+    ["What planet do we live on?", {"Venus":"wrong", "Earth":"correct", "Mars":"wrong", "Saturn":"wrong"}],
+    ["100+100-100+100?", {"100":"wrong", "300":"wrong", "200":"correct", "400":"wrong"}],
+    ["3*3?", {"8":"wrong", "9":"correct", "6":"wrong", "7":"wrong"}],
+    ["2*3?", {"6":"correct", "5":"wrong", "4":"wrong", "8":"wrong"}]  
+]
