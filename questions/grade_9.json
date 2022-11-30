@@ -1,0 +1,16 @@
+[
+    ["What does pi equal?",{"3.1516":"wrong", "3.1415":"correct", "3.1617":"wrong", "3.1918":"wrong"}],
+    ["What does 627 x 78 =?",{"46709":"wrong", "46908":"wrong", "47890":"wrong", "48906":"correct"}],
+    ["Which is the second layer of Earth's atmosphere?",{"Stratosphere":"correct", "Exosphere":"wrong", "Thermosphere":"wrong", "Mesosphere":"wrong"}],
+    ["Which is the first element of the periodic table?",{"Oxygen":"wrong", "Hydrogen":"correct", "Helium":"wrong", "Carbon":"wrong"}],
+    ["Which word is spelled correctly?",{"Febuary":"wrong", "Goverment":"wrong", "Occured":"wrong", "Misspelled":"correct"}],
+    ["What is the capital of Canada?",{"Ottawa":"correct", "Toronto":"wrong", "Montreal":"wrong", "Calgary":"wrong"}],
+    ["Which of these is NOT one of the seven wonders of the world?",{"Great Pyramid of Giza":"wrong", "Lighthouse of Alexandria":"wrong", "Hanging Gardens of Babylon":"wrong", "Eiffel Tower":"correct"}],
+    ["What is the chemical formula for water?",{"H2O2":"wrong", "O2H":"wrong", "H2O":"correct", "OH":"wrong"}],
+    ["What is the square root of 81?",{"9":"correct", "8":"wrong", "11":"wrong", "13":"wrong"}],
+    ["What is the rarest blood type?",{"AB+":"wrong", "O+":"wrong", "O-":"wrong", "AB-":"correct"}],
+    ["Which planet is the smallest?",{"Mars":"wrong", "Saturn":"wrong", "Mercury":"correct", "Venus":"wrong"}],
+    ["Which chemical element has the symbol, 'Au'?",{"Aluminum":"wrong", "Bronze":"wrong", "Silver":"wrong", "Gold":"correct"}],
+    ["In which country was Golf first played?",{"Scotland":"correct", "Great Britain":"wrong", "USA":"wrong", "France":"wrong"}],
+    ["Which is NOT a color of an olympic ring?",{"Blue":"wrong", "Purple":"correct", "Green":"wrong", "Black":"wrong"}]
+]

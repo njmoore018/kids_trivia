@@ -1,0 +1,16 @@
+[
+    ["The interior angles of a triangle always sum to...",{"360 degrees":"wrong", "270 degrees":"wrong", "180 degrees":"correct", "90 degrees":"wrong"}],
+    ["What is an angle called when it is larger than 90 degrees?",{"Obtuse":"correct", "Acute":"wrong", "Right":"wrong", "Big":"wrong"}],
+    ["What is 4 squared?",{"8":"wrong", "16":"correct", "12":"wrong", "4":"wrong"}],
+    ["What do you call a triangle with 3 unequal sides?",{"Acute":"wrong", "Obtuse":"wrong", "Isosceles":"wrong", "Scalene":"correct"}],
+    ["How many months have 31 days?",{"5":"wrong", "7":"correct", "9":"wrong", "6":"wrong"}],
+    ["From which country did Mexico gain its independence in the 1800s?",{"Spain":"correct", "France":"wrong", "Italy":"wrong", "Great Britain":"wrong"}],
+    ["What year did the US gain its independence?",{"1806":"wrong", "1796":"wrong", "1776":"correct", "1766":"wrong"}],
+    ["The Statue of Liberty was a gift from which country?",{"Great Britain":"wrong", "Italy":"wrong", "Spain":"wrong", "France":"correct"}],
+    ["Snow, rain, and sleet are all examples of what?",{"Clouds":"wrong", "Precipitation":"correct", "Rain":"wrong", "None of these":"wrong"}],
+    ["How many oceans are in the world?",{"3":"wrong", "7":"wrong", "6":"wrong", "5":"correct"}],
+    ["Which state contains Mount Rushmore?",{"South Dakota":"correct", "North Dakota":"wrong", "Montana":"wrong", "Wyoming":"wrong"}],
+    ["What kind of doctor deals with braces?",{"Dentist":"wrong", "Physician":"wrong", "Orthodontist":"correct", "Dermatologist":"wrong"}],
+    ["Whose face is on a $20 bill?",{"Abraham Lincoln":"wrong", "Andrew Jackson":"correct", "George Washington":"wrong", "Benjamin Franklin":"wrong"}],
+    ["From which country do French fries originate?",{"France":"wrong", "Germany":"wrong", "Great Britain":"wrong", "Belgium":"correct"}]
+]
