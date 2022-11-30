@@ -1,0 +1,16 @@
+[
+    ["The systemic system carries blood to the?", {"Pulmonary Veins":"wrong", "Body cells":"correct", "Epidermis":"wrong", "Main Arteries":"wrong"}],
+    ["Angiosperms are plants that produce any kind of flower", {"True":"correct", "False":"wrong"}],
+    ["Prokaryotes that can cause disease are?", {"Bacteria":"correct", "Leukocytes":"wrong", "Viruses":"wrong", "Gametes":"wrong"}],
+    ["The two organ systems that are interconnected?", {"Digestive System":"wrong", "Lymphatic System":"wrong", "Circulatory System":"correct", "Respiratory System":"wrong", "Musculoskeletal System":"correct"}],
+    ["Recessive genes mask other genes that are present.", {"False":"wrong", "True":"correct"}],
+    ["Check the genetic disorders:", {"Huntington's Chorea":"Correct", "Multiple Sclerosis":"correct", "Pancreatic Cancer":"wrong", "Spina Bifida":"correct", "Attention Deficit Disorder":"correct"}],
+    ["Xylem and Phloem are two major transport systems in plants", {"True":"correct", "False":"wrong"}],
+    ["Erythrocytes are:", {"Ephithelial":"wrong", "White blood cells":"wrong", "virusus":"wrong", "Red Blood Cells":"right"}],
+    ["Symptoms for Hypothyroidism (a disease affecting one's thyroid) include:", {"Modest weight gain":"correct", "Heartburn":"wrong", "Depression":"correct", "Fatigue":"correct"}],
+    ["An Ammensalism relationship in nature between parties means:", {"One party tries to eliminate the others to avoid competition.":"correct", "Both parties benefit from each other like a bee and a flower.":"Wrong", "One party benefits and the other doesn't care.":"wrong", "One party steals and benefits from the other and the other is affected negatively.":"wrong"}],
+    ["what is the belief that the U.S has the right to occupy all America?", {"3/5ths amendment":"wrong", "Mainfest Destiny":"correct", "Truman Doctrine":"wrong", "New deal":"wrong"}],
+    ["What was the was between the American colonists and England called?", {"Civil War":"wrong", "World War 1":"wrong", "American Revolution":"correct", "The cold war":"wrong"}],
+    ["How many terms did George Washington serve?", {"One":"wrong", "Two":"correct", "Three":"wrong", "Four":"wrong"}],
+    ["Who was a founder of the Federalist Party?", {"Alexander Hamilton":"correct", "Abraham Lincoln":"wrong", "Thomas Jefferson":"wrong", "Andrew Jackson":"wrong"}]  
+]
