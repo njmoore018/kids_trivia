@@ -1,0 +1,17 @@
+[
+["What is the chemical formula for water?",{"H2O2":"wrong", "O2H":"wrong", "H2O":"correct", "OH":"wrong"}],
+["What is the square root of 81?",{"9":"correct", "8":"wrong", "11":"wrong", "13":"wrong"}],
+["What is the rarest blood type?",{"AB+":"wrong", "O+":"wrong", "O-":"wrong", "AB-":"correct"}],
+["Which planet is the smallest?",{"Mars":"wrong", "Saturn":"wrong", "Mercury":"correct", "Venus":"wrong"}],
+["Which chemical element has the symbol, 'Au'?",{"Aluminum":"wrong", "Bronze":"wrong", "Silver":"wrong", "Gold":"correct"}],
+["In which country was Golf first played?",{"Scotland":"correct", "Great Britain":"wrong", "USA":"wrong", "France":"wrong"}],
+["Which is NOT a color of an olympic ring?",{"Blue":"wrong", "Purple":"correct", "Green":"wrong", "Black":"wrong"}],
+["Erythrocytes are:", {"Ephithelial":"wrong", "White blood cells":"wrong", "virusus":"wrong", "Red Blood Cells":"right"}],
+["Symptoms for Hypothyroidism (a disease affecting one's thyroid) include:", {"Modest weight gain":"correct", "Heartburn":"wrong", "Depression":"correct", "Fatigue":"correct"}],
+["An Ammensalism relationship in nature between parties means:", {"One party tries to eliminate the others to avoid competition.":"correct", "Both parties benefit from each other like a bee and a flower.":"Wrong", "One party benefits and the other doesn't care.":"wrong", "One party steals and benefits from the other and the other is affected negatively.":"wrong"}],
+["what is the belief that the U.S has the right to occupy all America?", {"3/5ths amendment":"wrong", "Mainfest Destiny":"correct", "Truman Doctrine":"wrong", "New deal":"wrong"}],
+["What was the was between the American colonists and England called?", {"Civil War":"wrong", "World War 1":"wrong", "American Revolution":"correct", "The cold war":"wrong"}],
+["How many terms did George Washington serve?", {"One":"wrong", "Two":"correct", "Three":"wrong", "Four":"wrong"}],
+["Who was a founder of the Federalist Party?", {"Alexander Hamilton":"correct", "Abraham Lincoln":"wrong", "Thomas Jefferson":"wrong", "Andrew Jackson":"wrong"}]  
+
+]

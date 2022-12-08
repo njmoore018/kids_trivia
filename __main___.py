@@ -54,9 +54,12 @@ def main():
             balance.height += 20
             balance.y -= 20
         elif answer in answers and answers[answer] != "correct":
+            # if answer is not correct reset balance bar
             balance.height -= (balance.height - 20)
             balance.y = (HEIGHT // 1.2)
+            
             run = False
+            # Set end screen to say you loose.
             end_screen = "You loose"
 
 

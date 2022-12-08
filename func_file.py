@@ -120,19 +120,24 @@ def draw_window(question, answer_list, points):
     
     # draws $0 and $1000000 with a bar in the middle to show where you are at  
     pygame.draw.rect(WIN, BLACK, balance)
-    WIN.blit(min_money, (20, 450))
-    WIN.blit(max_money, (20, 50))
+    WIN.blit(min_money, (20, 440))
+    WIN.blit(max_money, (20, 125))
     WIN.blit(your_money, (balance.x + balance.width + 10, balance.y))
 
     pygame.display.update()
 
 def play_again(text, points):
+    """
+    Draws a screen with the given text at the top (Preferably if they won or not), 
+    then asks "Play Again?" with a yes button and a no button.
+    """
     screen_text = banner(text, 40, BLACK)
     yes = banner("PLAY AGAIN", 18, BLACK)
     no = banner("QUIT", 18, BLACK)
     curr_money = str(money_levels[points])
     your_money = banner((f"End Score: ${curr_money}"), 40, BLACK)
     
+    # draws screen with option to keep playing or quit.
     WIN.fill(WHITE)
     WIN.blit(screen_text, ((WIDTH // 2) - (screen_text.get_width() // 2), 20))
     WIN.blit(your_money, ((WIDTH // 2) - (your_money.get_width() // 2), 50))
@@ -147,6 +152,7 @@ def play_again(text, points):
             if event.type == pygame.QUIT:
                 pygame.quit()
             if event.type == pygame.MOUSEBUTTONUP:
+                # Gets answer to play again.
                 pos = pygame.mouse.get_pos()
                 if FIELD_1.collidepoint(pos):
                     done = True
