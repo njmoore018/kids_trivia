@@ -18,9 +18,8 @@ that vary in difficulty based on the selected level. If you successfully answer 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [PyGame](https://www.pygame.org/docs/)
+* [PyGame YouTube Tutorial](https://youtu.be/jO6qQDNa2UY)
 
 # Future Work
 
