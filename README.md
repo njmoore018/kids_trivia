@@ -2,21 +2,19 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+We made this program to learn about PyGame and practice working together on a program as a group.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+This game is meant to be played like the gameshow: "Who Wants to be a Millionaire?". There are 13 grade levels to choose from with questions
+that vary in difficulty based on the selected level. If you successfully answer 14 questions in a row, you win!
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Gameplay and video presentation of code](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Visual Studio Code
+* Python 3.10
+* PyGame
+* Git/GitHub
 
 # Useful Websites
 
@@ -26,7 +24,5 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Update graphical presentation of progress bar.
+* Add option to create your own questions.
